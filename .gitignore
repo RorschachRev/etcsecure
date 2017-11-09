@@ -1,0 +1,13 @@
+*.pyc
+*~
+__pycache__
+myvenv
+/bin
+db.sqlite3
+/static
+.DS_Store
+pip-selfcheck.json
+/lib
+/local
+/manage.py
+/include
